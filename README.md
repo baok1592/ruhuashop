@@ -1,21 +1,20 @@
 # ruhuashop
 #### 介绍
-如花商城-单商户是一套新零售移动电商系统，采用三端分离；
-API端有多种版本，前端统一uniapp，后台统一vue element
-API多版本：
-1、NodeJS版本
-2、TCB版本	腾讯云开发
-3、UniappCloud版本
-4、Deno版本
-5、PHP版本    https://github.com/baok1592/ruhua
+如花商城-单商户是一套新零售移动电商系统，采用三端分离；  
+API端有多种版本，前端统一uniapp，后台统一vue element  
+API多版本：  
+1.  NodeJS版本
+2.  TCB版本	腾讯云开发
+3.  UniappCloud版本
+4.  Deno版本
+5.  PHP版本    https://github.com/baok1592/ruhua
 
 
 ##### 前端： https://github.com/baok1592/ruhua_vue
 
 
 
-功能包含商城、优惠券、分销、拼团、限时折扣、积分等功能，更适合企业二次开发；
-
+功能包含商城、优惠券、分销、拼团、限时折扣、积分等功能，更适合企业二次开发；  
 微信小程序端，微信公众号端，APP端。
 
 ##### 官网： http://www.ruhuashop.com 
