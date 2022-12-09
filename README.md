@@ -17,18 +17,13 @@ API多版本：
 功能包含商城、优惠券、分销、拼团、限时折扣、积分等功能，更适合企业二次开发；  
 微信小程序端，微信公众号端，APP端。
 
-##### 官网： http://www.ruhuashop.com 
+##### 官网： https://mall.telidy.cn/ 
 ##### 手册： https://www.yuque.com/u158056/bek6g2
 ##### QQ群： 728615087
 
 
-#### 扫码演示
-![image](https://raw.githubusercontent.com/baok1592/ruhua/master/xcx.jpg)
-![image](https://raw.githubusercontent.com/baok1592/ruhua/master/h5.png)
-
-#### 后台演示
-http://api.demo.ruhuashop.com/cms/	账号：admin	密码123456
-
+#### 扫码演示、后台演示
+请到官网查看：https://mall.telidy.cn/ 
 
 #### 开源版使用须知
 1.  允许用于个人学习、毕业设计、教学案例、公益事业
